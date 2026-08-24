@@ -61,3 +61,15 @@ Top languages link&" alt="maheshsingh70780-gif hona chahiye
 GitHub stats link
 
 Top languages link" /></p>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/maheshsingh70780-gif/maheshsingh70780-gif/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/maheshsingh70780-gif/maheshsingh70780-gif/tree/master/3658-gcd-of-odd-and-even-sums) |
+<!---LeetCode Topics End-->
