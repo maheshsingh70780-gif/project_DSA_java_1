@@ -72,4 +72,16 @@ Top languages link" /></p>
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/maheshsingh70780-gif/maheshsingh70780-gif/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Array
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/maheshsingh70780-gif/maheshsingh70780-gif/tree/master/0011-container-with-most-water) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/maheshsingh70780-gif/maheshsingh70780-gif/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/maheshsingh70780-gif/maheshsingh70780-gif/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
